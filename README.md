@@ -26,7 +26,7 @@ joelma78/
 ## 🚀 **Projetos em Destaque**
 | Projeto | Descrição | Tecnologias |
 |---------|-----------|-------------|
-| **[Projeto 1](link)** | Este repositório contém um notebook Jupyter com análise de dados e modelos de aprendizado de máquina focados no mercado de carros usados. | Python, Pandas |
+| **[Projeto 1]([link](https://github.com/joelma78/programacao_para_ciencia_dos_dados))** | Este repositório contém um notebook Jupyter com análise de dados e modelos de aprendizado de máquina focados no mercado de carros usados. | Python, Pandas |
 | **[Projeto 2](link)** | Descrição breve do projeto. | SQL, Power BI |
 
 ---
