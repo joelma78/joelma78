@@ -50,7 +50,7 @@ joelma78/
 
 ## 📫 **Como Me Encontrar**
 - ✉️ Email: [joelmabl78@gmail.com.br](joelmabl78@gmail.com.br)
-- 💼 LinkedIn: https://www.linkedin.com/in/joelma-lima-printes-a0b79012a/))
+- 💼 LinkedIn: https://www.linkedin.com/in/joelma-lima-printes-a0b79012a/
 - 🌐 Portfólio: [)]
 
 ---
