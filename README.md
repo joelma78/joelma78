@@ -1,4 +1,28 @@
-# 👋 Olá, eu sou Joelma! 
+# Olá! 👋
+
+Sou Docente de Informática e Eterna Aprendiz.
+
+## Tecnologias
+
+- Python
+- Pandas
+- NumPy
+- SQL
+- Git
+- GitHub
+
+## Atualmente estudando
+
+- Ciência de Dados
+- Machine Learning
+- Desenvolvimento Python
+
+## Projetos
+
+📌 Aqui você encontrará meus projetos desenvolvidos durante meus estudos e desafios práticos.
+
+---
+Obrigado pela visita!
 
 [![GitHub followers](https://img.shields.io/github/followers/joelma78?style=social)](https://github.com/joelma78) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
