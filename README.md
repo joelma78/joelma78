@@ -48,14 +48,6 @@ Tenho especial interesse em projetos que utilizem dados e Inteligência Artifici
 4. 🍫 Cacau — mostra Deep Learning/Visão Computacional
 5. 🚗 Carros Usados — mostra regressão/análise de dados
 
-Projeto de Visão Computacional e Machine Learning aplicado à classificação de imagens de sementes de cacau.
-
-A solução utiliza CNN para extração de características e SVM para classificação, combinando técnicas de Deep Learning e Machine Learning.
-
-Tecnologias:
-Python • CNN • SVM • Computer Vision • Machine Learning • Google Colab • GitHub Actions
-🔗 Ver projeto
-
 ## 🛠 **Tecnologias que Utilizo**
 <div style="display: flex; gap: 10px;">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -64,10 +56,10 @@ Python • CNN • SVM • Computer Vision • Machine Learning • Google Colab
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </div>
 
-
 ## 🤝 Vamos nos conectar?
-- ✉️ Email: [joelmabl78@gmail.com.br](joelmabl78@gmail.com.br)
-- 💼 LinkedIn: https://www.linkedin.com/in/joelma-lima-printes-a0b79012a/
+
+- ✉️ **E-mail:** [joelmabl78@gmail.com](mailto:joelmabl78@gmail.com)
+- 💼 **LinkedIn:** [Joelma Lima Printes](https://www.linkedin.com/in/joelma-lima-printes-a0b79012a/)
 
 
 > 💡 Transformando dados em conhecimento, conhecimento em tecnologia e tecnologia em soluções.
