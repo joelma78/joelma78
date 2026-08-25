@@ -41,7 +41,12 @@ Tenho especial interesse em projetos que utilizem dados e Inteligência Artifici
 🔎 Buscando novas oportunidades em: projetos, consultorias, serviços e parcerias relacionados à tecnologia e dados.
 
 ## 🚀 **Projetos em Destaque**
-🍫 Classificação de Sementes de Cacau — CNN + SVM
+
+1. 🏦 Adesão Bancária — seu projeto de ML clássico
+2. ✈️ Atraso de Voos — mostra ML + API + DVC + testes
+3. 🌊 Qualidade da Água — mostra Data Engineering/Cloud
+4. 🍫 Cacau — mostra Deep Learning/Visão Computacional
+5. 🚗 Carros Usados — mostra regressão/análise de dados
 
 Projeto de Visão Computacional e Machine Learning aplicado à classificação de imagens de sementes de cacau.
 
