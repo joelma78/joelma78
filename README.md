@@ -40,7 +40,7 @@ Tenho especial interesse em projetos que utilizem dados e Inteligência Artifici
 
 🔎 Buscando novas oportunidades em:
 
-# Data Science | Data Analytics | Machine Learning | Inteligência Artificial | Tecnologia da Informação | Automação
+ Data Science | Data Analytics | Machine Learning | Inteligência Artificial | Tecnologia da Informação | Automação
 
 🚀 Também tenho interesse em projetos, consultorias, serviços e parcerias relacionados à tecnologia e dados.
 
