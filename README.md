@@ -38,8 +38,7 @@ Soluções Tecnológicas
 
 Tenho especial interesse em projetos que utilizem dados e Inteligência Artificial para resolver problemas reais nas áreas de negócios, saúde, indústria, sustentabilidade e serviços.
 
-##📈 Atualmente
-
+## 📈 Atualmente
 🔎 Buscando novas oportunidades em:
 
 ## Data Science | Data Analytics | Machine Learning | Inteligência Artificial | Tecnologia da Informação | Automação
