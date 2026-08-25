@@ -63,7 +63,6 @@ Python • CNN • SVM • Computer Vision • Machine Learning • Google Colab
 ## 🤝 Vamos nos conectar?
 - ✉️ Email: [joelmabl78@gmail.com.br](joelmabl78@gmail.com.br)
 - 💼 LinkedIn: https://www.linkedin.com/in/joelma-lima-printes-a0b79012a/
-- 🌐 Portfólio: [)]
 
 
 > 💡 Transformando dados em conhecimento, conhecimento em tecnologia e tecnologia em soluções.
