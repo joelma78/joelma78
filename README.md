@@ -1,66 +1,62 @@
-# Olá! 👋
+## 👩‍💻 Olá, eu sou Joelma Printes!
+Profissional de Tecnologia da Informação | Ciência de Dados | Inteligência Artificial | Machine Learning | Python
 
-Sou Docente de Informática e Eterna Aprendiz.
+Sou profissional de Tecnologia da Informação, graduada em Sistemas de Informação, com pós-graduação em Governança de TI e especialização em Ciência de Dados.
 
-## Tecnologias
+Minha trajetória une tecnologia, educação e desenvolvimento de soluções, com experiência em projetos envolvendo Python, Ciência de Dados, Inteligência Artificial, Machine Learning, análise de dados e automação.
 
-- Python
-- Pandas
-- NumPy
-- SQL
-- Git
-- GitHub
+Atualmente, meu foco está no desenvolvimento de soluções orientadas por dados e na aplicação prática de Inteligência Artificial e Machine Learning para problemas reais.
 
-## Atualmente estudando
+## 🚀 Sobre mim
 
-- Ciência de Dados
-- Machine Learning
-- Desenvolvimento Python
+💻 Tecnologia da Informação
+🐍 Python para Ciência de Dados
+🤖 Inteligência Artificial
+🧠 Machine Learning
+📊 Análise e Visualização de Dados
+🗄️ SQL e Banco de Dados
+📈 Excel e Power BI
+⚙️ Automação de processos
+☁️ Google Colab e ferramentas Cloud
+🔄 Git, GitHub e GitHub Actions
+🎓 Formação e ensino em tecnologia
 
-## Projetos
+Gosto de transformar problemas em projetos práticos, utilizando dados e tecnologia para criar soluções que possam gerar impacto.
 
-📌 Aqui você encontrará meus projetos desenvolvidos durante meus estudos e desafios práticos.
+## 🧠 Áreas de interesse
+Inteligência Artificial
+        ↓
+Machine Learning
+        ↓
+Ciência de Dados
+        ↓
+Análise de Dados
+        ↓
+Automação
+        ↓
+Soluções Tecnológicas
 
----
-Obrigado pela visita!
+Tenho especial interesse em projetos que utilizem dados e Inteligência Artificial para resolver problemas reais nas áreas de negócios, saúde, indústria, sustentabilidade e serviços.
 
-[![GitHub followers](https://img.shields.io/github/followers/joelma78?style=social)](https://github.com/joelma78) 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:seu-email@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin/)
+## 📈 Atualmente
 
----
+🔎 Buscando novas oportunidades em:
 
-## 🗂 **Estrutura do Meu GitHub**
-```bash
-joelma78/
-├── .github/               # Configurações do GitHub (workflows, templates)
-├── projetos/              # Projetos principais
-│   ├── projeto-1/         # Exemplo: App de tarefas
-│   ├── projeto-2/         # Exemplo: Análise de dados
-├── estudos/               # Códigos de estudo/exercícios
-│   ├── python/            # Exercícios de Python
-│   ├── sql/               # Práticas de SQL
-├── scripts/               # Scripts úteis (automação, etc.)
-├── README.md              # Este arquivo
-└── LICENSE                # Licença MIT
-```
+## Data Science | Data Analytics | Machine Learning | Inteligência Artificial | Tecnologia da Informação | Automação
 
----
+🚀 Também tenho interesse em projetos, consultorias, serviços e parcerias relacionados à tecnologia e dados.
+
 
 ## 🚀 **Projetos em Destaque**
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **[Projeto 1]([link])**(https://github.com/joelma78/programacao_para_ciencia_dos_dados)| Este repositório contém um notebook Jupyter com análise de dados e modelos de aprendizado de máquina focados no mercado de carros usados. | Python, Pandas |
-| **[Projeto 2](link)** | Descrição breve do projeto. | SQL, Power BI |
+🍫 Classificação de Sementes de Cacau — CNN + SVM
 
----
+Projeto de Visão Computacional e Machine Learning aplicado à classificação de imagens de sementes de cacau.
 
-## 📊 **Estatísticas do GitHub**
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=joelma78&show_icons=true&theme=dracula)
+A solução utiliza CNN para extração de características e SVM para classificação, combinando técnicas de Deep Learning e Machine Learning.
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=joelma78&layout=compact&theme=dracula)
-
----
+Tecnologias:
+Python • CNN • SVM • Computer Vision • Machine Learning • Google Colab • GitHub Actions
+🔗 Ver projeto
 
 ## 🛠 **Tecnologias que Utilizo**
 <div style="display: flex; gap: 10px;">
@@ -70,13 +66,13 @@ joelma78/
   <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
 </div>
 
----
 
-## 📫 **Como Me Encontrar**
+## 🤝 Vamos nos conectar?
 - ✉️ Email: [joelmabl78@gmail.com.br](joelmabl78@gmail.com.br)
 - 💼 LinkedIn: https://www.linkedin.com/in/joelma-lima-printes-a0b79012a/
 - 🌐 Portfólio: [)]
 
----
 
-> *"A organização é o primeiro passo para um código eficiente!"* 🚀
+> 💡 Transformando dados em conhecimento, conhecimento em tecnologia e tecnologia em soluções.
+
+⭐ Se algum dos meus projetos for útil para você, fique à vontade para explorar, utilizar e contribuir.
