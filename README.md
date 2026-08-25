@@ -1,5 +1,5 @@
 ## 👩‍💻 Olá, eu sou Joelma Printes!
- Profissional de Tecnologia da Informação | Ciência de Dados | Inteligência Artificial | Machine Learning | PYTHON
+ Profissional de Tecnologia da Informação | Ciência de Dados | Inteligência Artificial | Machine Learning |Python
 
 Sou profissional de Tecnologia da Informação, graduada em Sistemas de Informação, com pós-graduação em Governança de TI e especialização em Ciência de Dados.
 
